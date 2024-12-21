@@ -16,8 +16,8 @@ vendor
 /examples
 
 # Ignore tool binaries
-/tools/asynq/asynq
-/tools/metrics_exporter/metrics_exporter
+/cli/asynq/asynq
+/cli/metrics_exporter/metrics_exporter
 
 # Ignore asynq config file
 .asynq.*
